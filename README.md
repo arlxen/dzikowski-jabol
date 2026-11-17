@@ -1,1 +1,2 @@
-# dzikowski-jabol
+# Proyecto: Sistema Central
+Versión Beta
